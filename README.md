@@ -8,7 +8,7 @@
 
 
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/YOUR_REPO_NAME)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/graphs/contributors) [![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO_NAME)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/commits/main) [![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO_NAME?style=social)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/stargazers)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/Nervi0zz0/ultimate-phishing-toolbox)](https://github.com/Nervi0zz0/ultimate-phishing-toolbox/graphs/contributors) [![GitHub last commit](https://img.shields.io/github/last-commit/Nervi0zz0/ultimate-phishing-toolbox)](https://github.com/Nervi0zz0/ultimate-phishing-toolbox/commits/main) [![GitHub stars](https://img.shields.io/github/stars/Nervi0zz0/ultimate-phishing-toolbox?style=social)](https://github.com/Nervi0zz0/ultimate-phishing-toolbox/stargazers)
 
 **Bienvenido a la colección definitiva de herramientas, plataformas y recursos para detectar, analizar y combatir el phishing en todas sus formas.**
 
