@@ -1,7 +1,9 @@
-# 🎣🛡️ The Ultimate Phishing Analysis Toolkit & Resource Hub 🛡️🎣
+
 <p align="center">
-  <img src="assets/image_148d1d.png" alt="Nerviozzo Blue Team Cybersecurity Logo" width="250"/>
+  <img src="assets/nervi0zz0.png" alt="Nerviozzo Blue Team Cybersecurity Logo" width="350"/>
 </p>
+
+---
 
 # 🎣🛡️ The Ultimate Phishing Analysis Toolkit & Resource Hub 🛡️🎣
 
