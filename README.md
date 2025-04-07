@@ -271,4 +271,4 @@ Este trabajo se distribuye bajo la licencia [Creative Commons Zero v1.0 Universa
 
 ---
 
-*Creado con ❤️ por la comunidad y curado por [Nervi0zz0]*
+*Una compilación de [Nervi0zz0](https://github.com/Nervi0zz0) para la comunidad de ciberseguridad.*
