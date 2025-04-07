@@ -4,15 +4,13 @@
 </p>
 
 ---
+# 🎣🛡️ Phishing Analysis Hub 🛡️🎣
 
-# 🎣🛡️ The Ultimate Phishing Analysis Toolkit & Resource Hub 🛡️🎣
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) **Bienvenido/a a la colección definitiva...** ```
 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/YOUR_REPO_NAME)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/graphs/contributors) [![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO_NAME)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/commits/main) [![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO_NAME?style=social)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/stargazers)
 
-**Bienvenido/a a la colección definitiva de herramientas, plataformas y recursos para detectar, analizar y combatir el phishing en todas sus formas.**
+**Bienvenido a la colección definitiva de herramientas, plataformas y recursos para detectar, analizar y combatir el phishing en todas sus formas.**
 
 El phishing sigue siendo una de las amenazas cibernéticas más persistentes y dañinas. Este repositorio tiene como objetivo ser una **guía viva y colaborativa** para profesionales de ciberseguridad, analistas SOC, investigadores, estudiantes y cualquier persona interesada en comprender y neutralizar estas amenazas.
 
